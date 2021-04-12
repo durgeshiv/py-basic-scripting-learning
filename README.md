@@ -1,1 +1,1 @@
-# py-scripting-learning
+# py-basic-scripting-learning
