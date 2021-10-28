@@ -11,3 +11,5 @@ for elem in lst:
 empDict = {'Fname':'Durgesh', 'Lname':'Agnihotri'}
 
 print(empDict['Fname'])
+
+print(type(empDict))
